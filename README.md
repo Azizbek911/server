@@ -1,26 +1,28 @@
 # server
 Server
-<h1>hello</h1>
 
 
-1-qadam
+
+
+<h1>1-qadam</h1>
 Kodni yuklab oling.
-2-qadam
+<h1>2-qadam</h1>
 Kodni VisualStudioCode da oching
-3-qadam
+<h1>3-qadam</h1>
 VisualStudioCode ning terminaligia npm i deb yozing
-4-qadam
+<h1>4-qadam</h1>
 Hamma modul o'rnatilganiga ishonch hosil qilib npm start buyrug'ini terminalga kiriting
 Tayyor sizning kodingiz ishlamoqda!!!!
 
 
-Step 1
+
+<h1>Step 1</h1>
 Download the code.
-Step 2
+<h1>Step 2</h1>
 Open the code in VisualStudioCode
-Step 3
+<h1>Step 3</h1>
 Type "npm i" in the VisualStudioCode terminal
-Step 4
+<h1>Step 4</h1>
 Make sure all modules are installed correctly. And type "npm start" in the terminal
 Your finished code works!!!!
 
